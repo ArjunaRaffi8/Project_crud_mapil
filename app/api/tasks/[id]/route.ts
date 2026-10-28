@@ -1,5 +1,6 @@
 import { NextResponse } from 'next/server';
 import { db } from '@/lib/db';
+import { log } from 'console';
 
 // Update Produk (PUT)
 export async function PUT(

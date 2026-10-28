@@ -174,7 +174,7 @@ export default function CRUDProductPage() {
             <div>
               <div className="flex items-center gap-3">
                 <h1 className="text-3xl sm:text-4xl font-black tracking-tight text-white">
-                  Rapleng
+                  ProdukHub
                 </h1>
                 <Badge className="bg-indigo-500/10 text-indigo-400 border border-indigo-500/20 text-xs px-3 py-1 font-bold">
                   PRO V2.0
